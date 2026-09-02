@@ -1,0 +1,33 @@
+body {
+    font-family: Arial;
+}
+
+h1 {
+    color: blue;
+}
+
+input {
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+table {
+    width: 100%;
+}
+
+th {
+    background-color: lightblue;
+}
+
+td {
+    padding: 10px;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+#detalle {
+    margin-top: 20px;
+}
